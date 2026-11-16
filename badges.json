@@ -7,17 +7,21 @@
       "icon": "icons/apoiador.png"
     },
     "developer": {
-      "name": "Developer",
+      "name": "Desenvolvedor",
       "description": "Desenvolvedor do ByaFlux",
       "icon": "icons/developer.png"
     },
     "owner": {
-      "name": "Owner",
+      "name": "Owners",
       "description": "Bya & ByaFlux owners",
       "icon": "icons/owner.png"
-    },
+    }
   },
   "users": {
-    "1227436212982251533": ["developer", "supporter", "owner"]
+    "1227436212982251533": [
+      "developer",
+      "supporter",
+      "owner"
+    ]
   }
 }

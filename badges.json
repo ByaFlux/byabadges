@@ -4,17 +4,17 @@
     "supporter": {
       "name": "Apoiador",
       "description": "Apoiador do ByaFlux",
-      "icon": "icons/apoiador.png"
+      "icon": "icons/apoiador-minimal.svg"
     },
     "developer": {
       "name": "Desenvolvedor",
       "description": "Desenvolvedor do ByaFlux",
-      "icon": "icons/developer.png"
+      "icon": "icons/developer-minimal.svg"
     },
     "owner": {
       "name": "Owners",
       "description": "Bya & ByaFlux owners",
-      "icon": "icons/owner.png"
+      "icon": "icons/owner-minimal.svg"
     }
   },
   "users": {

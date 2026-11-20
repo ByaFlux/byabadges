@@ -15,6 +15,11 @@
       "name": "Owners",
       "description": "Bya & ByaFlux owners",
       "icon": "icons/owner-minimal.svg"
+    },
+    "linux-tester": {
+      "name": "Linux Tester",
+      "description": "Testador da versão Linux do ByaFlux",
+      "icon": "icons/linux-tester.png"
     }
   },
   "users": {
